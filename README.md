@@ -1,5 +1,5 @@
 # imclean
-Script for interactive corrections to Spitzer/IRAC images
+IRAF Script for interactive corrections to Spitzer/IRAC images
 
 Joseph L. Hora
 May 2021
